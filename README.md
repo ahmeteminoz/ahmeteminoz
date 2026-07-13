@@ -1,16 +1,23 @@
-## Hi there 👋
+# hi there, i'm ahmet emin öz! 👋
 
-<!--
-**ahmeteminoz/ahmeteminoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**computer engineer | software developer**
 
-Here are some ideas to get you started:
+## about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 i’m a computer engineer who enjoys turning ideas into practical software solutions and approaching problems with an engineering mindset.
+
+📱 i’m currently developing **Emanetly** with Flutter and Firebase, applying software engineering principles throughout the development process.
+
+⚙️ i continue to strengthen my technical skills by building projects and working with modern development tools.
+
+## ⚙️ tech stack & tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,cs,html,css,js,bootstrap,git,github,vscode,visualstudio,androidstudio&theme=light&perline=14" />
+</p>
+
+## connect with me:
+
+<a href="https://www.linkedin.com/in/ahmeteminoz/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
+</a>
