@@ -58,6 +58,7 @@
     <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" height="48" alt="Android Studio" />
   </a>
 </p>
+
 ## connect with me:
 
 <a href="https://www.linkedin.com/in/ahmeteminoz/">
