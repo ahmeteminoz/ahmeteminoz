@@ -12,8 +12,6 @@
 
 ## ⚙️ tech stack & tools:
 
-## ⚙️ tech stack & tools:
-
 <p align="left">
   <a href="https://flutter.dev/">
     <img src="https://skillicons.dev/icons?i=flutter&theme=light" height="48" alt="Flutter" />
